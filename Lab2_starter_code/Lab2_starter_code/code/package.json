@@ -1,0 +1,16 @@
+{
+  "name": "cs155-proj2-25",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "cookie-session": "^2.1.0",
+    "ejs": "~3.1.10",
+    "express": "~5.1.0",
+    "morgan": "~1.10.0",
+    "better-sqlite3": "^11.10.0"
+  }
+}
